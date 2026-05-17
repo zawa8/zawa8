@@ -8,6 +8,8 @@
 
 *On a mission to automate everything, scale cloud infrastructures efficiently, and build internal developer platforms that empower engineering teams.*
 
+[![committers.top badge](https://user-badge.committers.top/india/NotHarshhaa.svg)](https://user-badge.committers.top/india/NotHarshhaa)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshhaa-vardhan-reddy)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prodevopsguy)
@@ -19,6 +21,8 @@
 
 ## 🧑‍💻 About Me
 
+<div align="center">
+
 <img src="https://imgur.com/DY2IoaL.png" alt="learn" width="800px">
 
 | What I Do | Quick Links |
@@ -29,13 +33,15 @@
 | 🔧 **Automation** — CI/CD pipelines & Infrastructure as Code | [![All Links](https://img.shields.io/badge/Links-link.notharshhaa.site-8A2BE2?style=flat-square&logo=linktree&logoColor=white)](https://link.notharshhaa.site) |
 | 📝 **Content** — Technical blogs, DevOps tutorials & open-source projects | |
 
+</div>
+
 ---
 
 ## ⚡ Tech Stack
 
-<img src="https://imgur.com/RknLHXQ.png" alt="tech" width="800px">
-
 <div align="center">
+
+<img src="https://imgur.com/RknLHXQ.png" alt="tech" width="800px">
 
 **Cloud & Platforms**
 
@@ -68,6 +74,8 @@
 
 ## 📂 Featured Projects
 
+<div align="center">
+
 <img src="https://imgur.com/TCiZWsZ.png" alt="git" width="800px">
 
 | Project | Description |
@@ -81,11 +89,15 @@
 | [🔵 Azure DevOps Guide](https://github.com/NotHarshhaa/azure-all_in_one.git) | All-in-one Azure DevOps reference |
 | [📑 DevOps Cheatsheet](https://github.com/NotHarshhaa/devops-cheatsheet) | Quick-reference for tools & practices |
 
+</div>
+
 ---
 
 ## 🌐 Learning Hub
 
 > **Your one-stop destination for DevOps, MLOps & Platform Engineering knowledge**
+
+<div align="center">
 
 **📚 Learn & Practice**
 
@@ -109,9 +121,13 @@
 | [🔧 DevOps Environment Toolkit](https://devops-environment-toolkit.vercel.app) | Ready-to-use local DevOps setup |
 | [✨ Awesome DevOps UI](https://awesomedevopsui.site) | Curated UI-based tools for DevOps & Cloud |
 
+</div>
+
 ---
 
 ## 📝 Latest Blog Posts
+
+<div align="center">
 
 <img src="https://imgur.com/fja3q42.png" alt="blog" width="800px">
 
@@ -125,13 +141,15 @@
 [![Docker Concepts](https://img.shields.io/badge/Docker_Concepts-FF5733?style=for-the-badge&logo=docker&logoColor=white)](https://blog.prodevopsguytech.com/docker-basic-to-advanced-concepts-2024)
 [![Kubernetes Concepts](https://img.shields.io/badge/Kubernetes_Concepts-8E44AD?style=for-the-badge&logo=kubernetes&logoColor=white)](https://blog.prodevopsguytech.com/kubernetes-advanced-concepts-and-best-practices)
 
+</div>
+
 ---
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NotHarshhaa&theme=cyber-streakglow&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 <div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=NotHarshhaa&theme=cyber-streakglow&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 🌟 **5,000+** Stars &nbsp;·&nbsp; 🍴 **1,000+** Forks &nbsp;·&nbsp; 👨‍💻 **50+** Contributors &nbsp;·&nbsp; 📚 **900+** Resources
 
