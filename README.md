@@ -324,7 +324,7 @@ I enjoy building open-source tools, automation frameworks, production-ready AI p
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NotHarshhaa&theme=cyber-streakglow&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NotHarshhaa&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ⭐ **5,000+ Stars**
 
