@@ -320,26 +320,6 @@ I enjoy building open-source tools, automation frameworks, production-ready AI p
 
 ---
 
-# 📊 GitHub Extra Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=NotHarshhaa&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
-⭐ **5,000+ Stars**
-
-🍴 **1,000+ Forks**
-
-👨‍💻 **50+ Contributors**
-
-📚 **900+ Learning Resources**
-
-🚀 **Open Source • DevOps • Platform Engineering • AI Infrastructure**
-
-</div>
-
----
-
 <div align="center">
 
 ### 💙 If my work helps you, consider supporting it.
