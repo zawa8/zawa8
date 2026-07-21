@@ -2,17 +2,15 @@
 
 <img src="https://imgur.com/CvgYNnv.png" alt="banner" width="800px">
 
-# H A R S H H A A
+# wimxl kumar (wimAl kumar)
 
-### **Platform Engineer • AI Infrastructure • Agentic Systems**
+### **plxtform ingineer • artificixl intxlizns infrastructure • xzentik sistxms**
 
 `DevOps` • `Platform Engineering` • `MLOps` • `LLMOps` • `GenAI` • `AI Agents` • `MCP` • `AI Infrastructure`
 
 ### *Building Cloud Platforms, AI Infrastructure & Agentic Systems.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshhaa-vardhan-reddy)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NotHarshhaa)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/prodevopsguy)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zawa8)
 [![Blog](https://img.shields.io/badge/Blog-FFA500?style=flat-square&logo=hashnode&logoColor=white)](https://blog.harshhaareddy.site)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=vercel&logoColor=white)](https://harshhaareddy.site)
 [![Top Committer](https://img.shields.io/badge/Top_Committer-India-FF5722?style=flat-square&logo=github&logoColor=white)](https://user-badge.committers.top/india/NotHarshhaa)
