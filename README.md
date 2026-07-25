@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://pin.it/5qaITZlff" alt="banner" width="800px">
+<img src="https://i.postimg.cc/ZKx5NLRH/zawa8wimxl.png" alt="banner" width="800px">
 
 # wimxl kumar (wimAl)
 
