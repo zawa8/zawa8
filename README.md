@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://imgur.com/CvgYNnv.png" alt="banner" width="800px">
+<img src="https://photos.app.goo.gl/Y4vWPRbjm8hqPXEX9" alt="banner" width="800px">
 
-# wimxl kumar (wimAl kumar)
+# wimxl kumar (wimAl)
 
 ### **plxtform ingineer • artificixl intxlizns infrastructure • xzentik sistxms**
 
