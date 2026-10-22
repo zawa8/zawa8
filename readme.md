@@ -13,3 +13,5 @@ I build the underlying tools, data pipelines, and infrastructure that make devel
 * **Specialties:** Computational Linguistics, Object-Oriented Analysis & Design (OOAD), High-Throughput Character Mapping Engines, System Localization (i18n), Custom Browser Extension Architectures
 
 *I don't track metrics; I build the tools that process them.*
+
+my cursor url is [cursor->xnglosoft](https://cursor.com/@xnglosoft)
